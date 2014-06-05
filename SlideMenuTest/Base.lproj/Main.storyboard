@@ -113,7 +113,7 @@
             </objects>
             <point key="canvasLocation" x="-352" y="121"/>
         </scene>
-        <!--View Controller - hej-->
+        <!--View Controller-->
         <scene sceneID="PNl-4H-TEY">
             <objects>
                 <viewController id="Gne-K8-kKR" sceneMemberID="viewController">
@@ -129,9 +129,7 @@
                             </label>
                         </subviews>
                     </view>
-                    <navigationItem key="navigationItem" title="hej" id="UWJ-cJ-C2m">
-                        <barButtonItem key="leftBarButtonItem" style="plain" systemItem="add" id="tYC-Lb-XkR"/>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" id="UWJ-cJ-C2m"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4fK-AN-nbb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
