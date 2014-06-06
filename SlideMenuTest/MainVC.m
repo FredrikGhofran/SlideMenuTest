@@ -30,6 +30,9 @@
         case 1:
             identifier = @"secondSegue";
             break;
+        case 2:
+            identifier = @"theerdSegue";
+            break;
 
     }
 
@@ -49,6 +52,14 @@
     
     
 }
+-(CGFloat)leftMenuWidth
+{
+    return 200;
+}
 
+-(BOOL)deepnessForLeftMenu
+{
+    return YES;
 
+}
 @end
